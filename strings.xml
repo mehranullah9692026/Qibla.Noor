@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">قبلہ نور</string>
+    <string name="title">قبلے کی سمت</string>
+    <string name="need_perm">قبلے کی سمت معلوم کرنے کے لیے مقام کی اجازت درکار ہے۔</string>
+    <string name="grant">مقام کی اجازت دیں</string>
+    <string name="locating">آپ کا مقام معلوم کیا جا رہا ہے…</string>
+    <string name="bearing">حقیقی شمال سے قبلے کی سمت: %1$.1f°</string>
+    <string name="no_sensor">اس فون میں مناسب قطب نما سینسر موجود نہیں۔ اوپر دی گئی ڈگری کسی اصل قطب نما کے ساتھ استعمال کریں۔</string>
+    <string name="hint">فون کو سیدھا (افقی) رکھیں اور اس وقت تک گھمائیں جب تک سنہری تیر اسکرین کے اوپر کی طرف نہ آ جائے۔</string>
+</resources>
