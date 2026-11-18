@@ -1,0 +1,9 @@
+settings.gradle.kts
+build.gradle.kts
+gradle.properties
+README.md
+app/build.gradle.kts
+app/src/main/AndroidManifest.xml
+app/src/main/java/com/qiblanoor/app/MainActivity.kt
+app/src/main/res/values/strings.xml
+.github/workflows/build.yml
